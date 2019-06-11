@@ -1,0 +1,39 @@
+/* #body-main, #big-login>ul, #search-container, .nav>ul{
+    /*  width: 86vw; */
+      /* max-width: 1000px;
+      margin: auto;
+      border: 2px solid white; */
+/* } */
+.social-login{
+    background-color: black;
+    color: white;
+}
+.social-media{
+    width: 1000px;
+    margin: auto;
+}
+#followUS{
+    color: white;
+    margin-left: 15px;
+}
+.fa{
+    padding: 11px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 3px;
+    margin-left: 5px;
+}
+.fa-facebook{
+    background: #3b5998;
+    color: white;
+}
+.fa-twitter{
+    background: #55ACEE;
+    color: white;
+}
+.fa-instagram{
+    background: #125688;
+    color: white;
+}
